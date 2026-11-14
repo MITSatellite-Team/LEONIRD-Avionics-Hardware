@@ -3,25 +3,25 @@
 	url = git@github.com:cmu-argus-2/Avionics-Mainboard.git
 [submodule "Avionics-BatteryBoard"]
 	path = Avionics-BatteryBoard
-	url = git@github.com:cmu-argus-2/Avionics-BatteryBoard.git
+	url = https://github.com/MITSatellite-Team/LEONIRD-Avionics-BatteryBoard.git
 [submodule "Avionics-Deployables"]
 	path = Avionics-Deployables
 	url = git@github.com:cmu-argus-2/Avionics-Deployables.git
 [submodule "Avionics-Minus-Z"]
 	path = Avionics-Minus-Z
-	url = git@github.com:cmu-argus-2/Avionics-Minus-Z.git
+	url = https://github.com/MITSatellite-Team/LEONIRD-Avionics-Minus-Z.git
 [submodule "Avionics-Plus-Z"]
 	path = Avionics-Plus-Z
-	url = git@github.com:cmu-argus-2/Avionics-Plus-Z.git
+	url = https://github.com/MITSatellite-Team/LEONIRD-Avionics-Plus-Z.git
 [submodule "Avionics-XY"]
 	path = Avionics-XY
-	url = https://github.com/cmu-argus-2/Avionics-XY
+	url = https://github.com/MITSatellite-Team/LEONIRD-Avionics-XY.git
 [submodule "Avionics-JetsonCarrier"]
 	path = Avionics-JetsonCarrier
 	url = git@github.com:cmu-argus-2/Avionics-JetsonCarrier.git
 [submodule "KiCad-Libraries"]
 	path = KiCad-Libraries
-	url = git@github.com:cmu-argus-2/KiCad-Libraries.git
+	url = https://github.com/MITSatellite-Team/LEONIRD-KiCad-Libraries.git
 [submodule "Avionics-RWboard"]
 	path = Avionics-RWboard
 	url = git@github.com:cmu-argus-2/Avionics-RWboard.git
